@@ -24,6 +24,6 @@ Do you have an idea, project, or just want to say hi? Feel free to send me a mes
 ![RxJS](https://img.shields.io/badge/rxjs-%23B7178C.svg?style=for-the-badge&logo=reactivex&logoColor=white)
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JCiscoHuerta&layout=compact&theme=dark&cache_seconds=1800)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JFCiscoHuerta&layout=compact&theme=dark&cache_seconds=1800)
 
-![](https://komarev.com/ghpvc/?username=JCiscoHuerta&color=blue)
+![](https://komarev.com/ghpvc/?username=JFCiscoHuerta&color=blue)

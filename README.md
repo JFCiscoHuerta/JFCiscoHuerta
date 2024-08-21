@@ -7,7 +7,7 @@ Do you have an idea, project, or just want to say hi? Feel free to send me a mes
 
 ⚠️ If you are looking for access to the private repositories, please contact me.
 
-![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)
+[![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/jfhuertagonzalez)
 
 ## Technologies
 

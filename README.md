@@ -1,15 +1,4 @@
-# Hey! Nice to see you 👋
-
-
-
-💬 Let's Talk! 
-Do you have an idea, project, or just want to say hi? Feel free to send me a message!
-
-⚠️ If you are looking for access to the private repositories, please contact me.
-
-[![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/jfhuertagonzalez)
-
-## Technologies
+<img width="1834" alt="Make your README" src="https://github.com/user-attachments/assets/7a14ff51-7584-4ade-93de-842d53d83fed">
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
@@ -17,11 +6,10 @@ Do you have an idea, project, or just want to say hi? Feel free to send me a mes
 ![Thymeleaf](https://img.shields.io/badge/Thymeleaf-%23005C0F.svg?style=for-the-badge&logo=Thymeleaf&logoColor=white)
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-<br/>
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 ![RxJS](https://img.shields.io/badge/rxjs-%23B7178C.svg?style=for-the-badge&logo=reactivex&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/Rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
-
+<br/>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JFCiscoHuerta&layout=compact&theme=dark&cache_seconds=1800)
 

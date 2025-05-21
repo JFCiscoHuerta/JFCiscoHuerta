@@ -13,7 +13,6 @@
 ![Godot](https://img.shields.io/badge/godot-478CBF.svg?style=for-the-badge&logo=godot-engine&logoColor=white)
 ![JUnit](https://img.shields.io/badge/junit-25A162.svg?style=for-the-badge&logo=junit5&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Mockito](https://img.shields.io/badge/mockito-00CFA0.svg?style=for-the-badge&logo=mockito&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/kubernetes-326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 
 <br/>
